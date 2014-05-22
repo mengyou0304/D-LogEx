@@ -1,0 +1,8 @@
+*.swo
+*.swp
+bin
+log
+tmp
+lib
+docs
+

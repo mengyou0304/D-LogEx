@@ -1,0 +1,56 @@
+2014-05-21 16:28:20,753 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:26)     - validating....[Source]=Sinatra.......
+2014-05-21 16:28:20,784 DEBUG [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:28:20,787 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:26)     - validating....[Source]=Sinatra.......
+2014-05-21 16:28:20,791 DEBUG [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:28:20,797 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:26)     - validating....[Source]=Sinatra.......
+2014-05-21 16:28:20,799 DEBUG [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:29:02,192 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:26)     - validating....[Source]=Sinatra.......
+2014-05-21 16:29:02,197 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:31)     - fit!
+2014-05-21 16:29:02,198 DEBUG [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:29:02,205 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:26)     - validating....[Source]=Sinatra.......
+2014-05-21 16:29:02,205 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:31)     - fit!
+2014-05-21 16:29:02,206 DEBUG [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:29:02,211 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:26)     - validating....[Source]=Sinatra.......
+2014-05-21 16:29:02,211 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:31)     - fit!
+2014-05-21 16:29:02,211 DEBUG [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:29:36,255 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:26)     - validating....[Source]=Sinatra.......
+2014-05-21 16:29:36,260 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:31)     - fit!
+2014-05-21 16:29:36,261 DEBUG [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:29:36,274 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:26)     - validating....[Source]=Sinatra.......
+2014-05-21 16:29:36,274 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:31)     - fit!
+2014-05-21 16:29:36,275 DEBUG [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:29:36,282 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:26)     - validating....[Source]=Sinatra.......
+2014-05-21 16:29:36,284 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:31)     - fit!
+2014-05-21 16:29:36,284 DEBUG [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:30:45,992 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:30)     - validating....[Source]=Sinatra.......fit!
+2014-05-21 16:30:45,997 DEBUG [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:30:46,001 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:30)     - validating....[Source]=Sinatra.......fit!
+2014-05-21 16:30:46,008 DEBUG [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:30:46,014 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:30)     - validating....[Source]=Sinatra.......fit!
+2014-05-21 16:30:46,014 DEBUG [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:31:01,253 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:30)     - validating....[Source]=Sinatra.......fit!
+2014-05-21 16:31:01,260 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:31:01,265 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:30)     - validating....[Source]=Sinatra.......fit!
+2014-05-21 16:31:01,269 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:31:01,271 DEBUG [main] feature.PropertyContainFeature (PropertyContainFeature.java:30)     - validating....[Source]=Sinatra.......fit!
+2014-05-21 16:31:01,279 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:31:12,920 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:31:12,929 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:31:12,931 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:31:56,769 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:31:56,777 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:31:56,778 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:34:21,313 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:34:21,539 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:34:21,752 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:36:01,950 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:36:02,204 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:36:02,412 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:36:21,996 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:36:22,217 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:36:22,458 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:37:20,616 INFO  [main] util.LogEXFileUtility (LogEXFileUtility.java:59)     - Using file as test12.file don't exists, so creating new file
+2014-05-21 16:37:42,491 INFO  [main] util.LogEXFileUtility (LogEXFileUtility.java:59)     - Using file as /Users/you.meng/tmp/ex_logstash don't exists, so creating new file
+2014-05-21 16:37:42,953 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:37:43,174 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
+2014-05-21 16:37:43,379 INFO  [main] impl.ClassificationListener (ClassificationListener.java:32)     - Judge this exception As type :rule1
